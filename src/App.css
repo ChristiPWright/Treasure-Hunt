@@ -1,0 +1,26 @@
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  justify-content: center;
+  align-items: flex-start;
+  align-content:space-between;
+  background-color: tan;
+  /*background-image: url("/blank map.png");*/
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
+}
+
+/*.square {*/
+/*  height: 5em;*/
+/*  width: 5em;*/
+/*}*/
+
+body {
+  background-image: url("/pirate ship on the high seas.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
